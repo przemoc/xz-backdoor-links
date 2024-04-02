@@ -143,6 +143,7 @@ markmap:
 
 - by Jonathan Corbet ([@corbet](https://social.kernel.org/users/corbet))
   - toot: [Random, unordered, probably useless thoughts on today's apocalypxze...](https://social.kernel.org/notice/AgM1lT6HeBpodOubEe) (2024-03-29)
+  - post: [Free software's not-so-eXZellent adventure](https://lwn.net/SubscriberLink/967866/ec329f5f32e43b15/) (2024-04-02)
 - by Michał Zelewski ([@lcamtuf](https://infosec.exchange/@lcamtuf))
   - post: [Techies vs spies: the xz backdoor debate](https://lcamtuf.substack.com/p/technologist-vs-spy-the-xz-backdoor) (2024-03-30)
   - toot: [OK, so here's my slightly more eloquent take on the xz thing, complete with a zinger closing paragraph](https://infosec.exchange/@lcamtuf/112182346314363746) (2024-03-30)
