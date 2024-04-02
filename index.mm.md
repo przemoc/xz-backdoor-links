@@ -97,6 +97,7 @@ markmap:
 - by nugxperience ([@nugxperience](https://twitter.com/nugxperience))
   - tweet: [The AWK portion of the #xz #backdoor decoding script is implementing a modified RC4 algorithm.](https://twitter.com/nugxperience/status/1773906926503591970) (2024-03-30)
 - by alden ([@birchb0y](https://twitter.com/birchb0y))
+  - github: [XZ Backdoor Github Analysis - Jupyter Notebook to graph a users commit history over time](https://github.com/ald3ns/xz-backdoor-github-analysis) (2024-03-30)
   - tweet: [If you plot Jai Tan's commit history over time, the cluster of offending commits occurs at an unusual time compared to rest of their activity.](https://twitter.com/birchb0y/status/1773871381890924872) (2024-03-30)
 - by Gynvael Coldwind ([@gynvael](https://infosec.exchange/@gynvael))
   - post: [xz/liblzma: Bash-stage Obfuscation Explained](https://gynvael.coldwind.pl/?lang=en&id=782) (2024-03-30)
@@ -106,10 +107,14 @@ markmap:
   - toot: [List of encoded strings within the liblzma/xz backdoor payload (5.6.1)](https://social.hackerspace.pl/@q3k/112184695043115759) (2024-03-30)
 - by Stefano Moioli ([github.com/smx-smx](https://github.com/smx-smx))
   - gist: [[WIP] XZ Backdoor Analysis and symbol mapping](https://gist.github.com/smx-smx/a6112d54777845d389bd7126d6e9f504) (2024-03-30+)
+  - github: [xzre - Reverse engineering of the XZ backdoor](https://github.com/smx-smx/xzre) (2024-04-02+)
 - by Rhea Karty and Simon Henniger
   - post: [XZ Backdoor: Times, damned times, and scams](https://rheaeve.substack.com/p/xz-backdoor-times-damned-times-and) (2024-03-30)
 - by Connor Tumbleson ([@iBotPeaches](https://infosec.exchange/@iBotPeaches))
   - post: [Watching xz unfold from afar](https://connortumbleson.com/2024/03/31/watching-xz-unfold-from-afar/) (2024-03-30+)
+- by Jonathan Schleifer ([@js](https://ap.nil.im/js))
+  - wiki: [xz-backdoor-documentation](https://github.com/Midar/xz-backdoor-documentation/wiki) (2024-03-30+)
+  - toot: [I started a writeup of what I found so far about the #xz backdoor](https://ap.nil.im/notice/AgOBVh5Tq1IjfawZvM) (2024-03-30)
 - by Michael Karcher
   - github: [xz-malware - Stuff discovered while analyzing the malware hidden in xz-utils 5.6.0 and 5.6.1](https://github.com/karcherm/xz-malware) (2024-03-31+)
 - by Anthony Weems ([@amlw](https://infosec.exchange/@amlw))
@@ -138,6 +143,11 @@ markmap:
 - by Thomas Roccia ([@fr0gger](https://infosec.exchange/@fr0gger))
   - toot: [I tried to make sense of the analysis in a single page (which was quite complicated)!](https://infosec.exchange/@fr0gger/112189232773640259) (2024-03-31)
   - tweet: [I tried to make sense of the analysis in a single page (which was quite complicated)!](https://twitter.com/fr0gger_/status/1774342248437813525) (2024-03-31)
+
+## countermeasure
+
+- by Hank Leininger ([github.com/hlein](https://github.com/hlein))
+  - github: [distro-backdoor-scanner - tools to scan OS distributions for backdoor indicators](https://github.com/hlein/distro-backdoor-scanner) (2024-04-01+)
 
 ## comments
 
