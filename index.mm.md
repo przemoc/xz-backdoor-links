@@ -89,6 +89,8 @@ markmap:
   - post: [CVE-2024-3094: Malicious code in xz 5.6.0 and 5.6.1 tarballs](https://discourse.nixos.org/t/cve-2024-3094-malicious-code-in-xz-5-6-0-and-5-6-1-tarballs/42405) (2024-03-29+)
 - FreeBSD
   - mail: [Disclosed backdoor in xz releases - FreeBSD not affected](https://lists.freebsd.org/archives/freebsd-security/2024-March/000248.html) (2024-03-29)
+- NetBSD
+  - post: [Statement on backdoor in xz library](https://blog.netbsd.org/tnf/entry/statement_on_backdoor_in_xz) (2024-03-30)
 - GitHub
   - page: [Malicious code was discovered in the upstream tarballs of... (GHSA-rxwq-x6h5-x525)](https://github.com/advisories/GHSA-rxwq-x6h5-x525) (2024-03-29)
 
@@ -119,6 +121,7 @@ markmap:
   - github: [xz-malware - Stuff discovered while analyzing the malware hidden in xz-utils 5.6.0 and 5.6.1](https://github.com/karcherm/xz-malware) (2024-03-31+)
 - by Anthony Weems ([@amlw](https://infosec.exchange/@amlw))
   - github: [xzbot - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)](https://github.com/amlweems/xzbot) (2024-04-01)
+  - tweet: [I've been reverse engineering the xz backdoor this weekend and have documented the payload format and written a proof-of-concept exploit for the RCE](https://twitter.com/amlweems/status/1774819428208689241) (2024-04-01)
 
 ## distillation
 
@@ -165,6 +168,13 @@ markmap:
   - post: [What could be done to support Open Source maintainers?](https://robmensching.com/blog/posts/2024/03/31/what-could-be-done-to-support-open-source-maintainers/) (2024-03-31)
 - by Devon Eriksen ([@Devon_Eriksen_](https://twitter.com/Devon_Eriksen_))
   - tweet: [Are you actually sitting there telling me that, in 2024, a significant open source project is using fucking Autotools instead of something like Cmake?](https://twitter.com/Devon_Eriksen_/status/1774094415235092494)
+- by Dominik Czarnota ([@disconnect3d_pl](https://twitter.com/disconnect3d_pl))
+  - tweet: [Fwiw the "disabled landlock" case reminds me of all those "security mitigation typos" I found some time ago](https://twitter.com/disconnect3d_pl/status/1774496509259645392) (2024-03-31)
+- by Ariadne Conill ([@ariadne](https://social.treehouse.systems/@ariadne))
+  - post: [The XZ Utils backdoor is a symptom of a larger problem](https://ariadne.space/2024/04/02/the-xz-utils-backdoor-is-a-symptom-of-a-larger-problem/) (2024-04-02)
+  - toot: [The XZ Utils backdoor is a symptom of a larger problem](https://social.treehouse.systems/@ariadne/112200322089325192) (2024-04-02)
+- by Rachel Kroll
+  - post: [autoconf makes me think we stopped evolving too soon](https://rachelbythebay.com/w/2024/04/02/autoconf/) (2024-04-02)
 
 - collected by Michael Tsai ([@mjtsai](https://mastodon.social/@mjtsai))
   - post: [xz Backdoor](https://mjtsai.com/blog/2024/04/01/xz-backdoor/) (2024-04-01)
@@ -175,5 +185,7 @@ markmap:
   - post: [backdoor in upstream xz/liblzma leading to ssh server compromise](https://lobste.rs/s/uihyvs/backdoor_upstream_xz_liblzma_leading_ssh) (2024-03-29)
 - by [Hacker News](https://news.ycombinator.com/) community
   - post: [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://news.ycombinator.com/item?id=39865810) (2024-03-29)
+  - post: [Xz: Can you spot the single character that disabled Linux landlock?](https://news.ycombinator.com/item?id=39874404) (2024-03-30)
+  - post: [Xzbot: Notes, honeypot, and exploit demo for the xz backdoor](https://news.ycombinator.com/item?id=39895344) (2024-04-01)
 - by [reddit r/linux](https://old.reddit.com/r/linux/) community
   - post: [backdoor in upstream xz/liblzma leading to ssh server compromise](https://old.reddit.com/r/linux/comments/1bqt999/backdoor_in_upstream_xzliblzma_leading_to_ssh/) (2024-03-29)
