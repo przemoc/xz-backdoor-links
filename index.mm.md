@@ -94,7 +94,7 @@ markmap:
 - GitHub
   - page: [Malicious code was discovered in the upstream tarballs of... (GHSA-rxwq-x6h5-x525)](https://github.com/advisories/GHSA-rxwq-x6h5-x525) (2024-03-29)
 - CERT-EU
-  - post: [Critical Vulnerability in XZ Utils](https://cert.europa.eu/publications/security-advisories/2024-032/) (2023-04-02)
+  - post: [Critical Vulnerability in XZ Utils](https://cert.europa.eu/publications/security-advisories/2024-032/) (2023-03-29+)
 
 ## analysis
 
