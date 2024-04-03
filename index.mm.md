@@ -115,7 +115,7 @@ markmap:
 - by Jonathan Schleifer ([@js](https://ap.nil.im/js))
   - wiki: [xz-backdoor-documentation](https://github.com/Midar/xz-backdoor-documentation/wiki) (2024-03-30+)
   - toot: [I started a writeup of what I found so far about the #xz backdoor](https://ap.nil.im/notice/AgOBVh5Tq1IjfawZvM) (2024-03-30)
-- by Michael Karcher
+- by Michael Karcher ([github.com/karcherm](https://github.com/karcherm))
   - github: [xz-malware - Stuff discovered while analyzing the malware hidden in xz-utils 5.6.0 and 5.6.1](https://github.com/karcherm/xz-malware) (2024-03-31+)
 - by Anthony Weems ([@amlw](https://infosec.exchange/@amlw))
   - github: [xzbot - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)](https://github.com/amlweems/xzbot) (2024-04-01)
