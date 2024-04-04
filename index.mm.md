@@ -202,6 +202,8 @@ markmap:
   - post: [autoconf makes me think we stopped evolving too soon](https://rachelbythebay.com/w/2024/04/02/autoconf/) (2024-04-02)
 - by Patrick Gray ([@riskybusiness](https://infosec.exchange/@riskybusiness)), Adam Boileau ([@metlstorm](https://infosec.exchange/@metlstorm))
   - podcast: [Risky Business #743 - A chat about the xz backdoor with the guy who found it](https://risky.biz/RB743/) w/ special guest: Andres Freund (2024-04-03)
+- by Peter Geissler ([@blasty](https://infosec.exchange/@blasty))
+  - tweet: [xz bd engineer 1: bro, we need a way to probe the address space to make sure we never SEGV sshd](https://twitter.com/bl4sty/status/1775299293139575048) (2024-04-03)
 
 - collected by Michael Tsai ([@mjtsai](https://mastodon.social/@mjtsai))
   - post: [xz Backdoor](https://mjtsai.com/blog/2024/04/01/xz-backdoor/) (2024-04-01)
