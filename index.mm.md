@@ -63,7 +63,7 @@ markmap:
 - SUSE
   - bug: [1222124](https://bugzilla.suse.com/1222124) ` (CVE-2024-3094) - VUL-0: CVE-2024-3094: xz: backdoored 5.6.0,5.6.1 version` (2024-03-28)
 - Ubuntu
-  - Launchpad CVE tracker: [CVE-2024-3094](https://launchpad.net/bugs/cve/CVE-2024-3094) (2024-03-29+)
+  - bugs: [CVE-2024-3094 in Launchpad CVE tracker](https://launchpad.net/bugs/cve/CVE-2024-3094) (2024-03-29+)
 
 ## advisory
 
