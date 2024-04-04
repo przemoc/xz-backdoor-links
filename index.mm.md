@@ -1,5 +1,6 @@
 ---
 title: "apocalypxze: xz backdoor (2024) AKA CVE-2024-3094 related links"
+url: "https://przemoc.github.io/xz-backdoor-links/"
 markmap:
   colorFreezeLevel: 2
   maxWidth: 1300
