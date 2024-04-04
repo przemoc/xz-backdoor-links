@@ -158,7 +158,7 @@ markmap:
 - by Vegard Nossum ([@vegard](https://mastodon.social/@vegard))
   - file: [detect.sh](https://www.openwall.com/lists/oss-security/2024/03/29/4/3) (warning: uses ldd which is [unsafe unless you trust its target](https://dwheeler.com/program-library/Program-Library-HOWTO/x36.html)) (2024-03-29)
   - toot: [Upstream backdoor discovered in xz-utils/liblzma](https://mastodon.social/@vegard/112179869758119960) (2024-03-29)
-- by Binarly Research Team ([binarly.io](https://www.binarly.io/about))
+- by Binarly ([@binarly_io](https://twitter.com/binarly_io))
   - page: [xz.fail - Binarly XZ backdoor detector](https://xz.fail/) (2024-04-01)
   - post: [XZ Utils Supply Chain Puzzle: Binarly Ships Free Scanner for CVE-2024-3094 Backdoor](https://www.binarly.io/blog/xz-utils-supply-chain-puzzle-binarly-ships-free-scanner-for-cve-2024-3094-backdoor) (2024-04-01)
 
