@@ -145,6 +145,8 @@ markmap:
   - toot: [I'm watching some folks reverse engineer the xz backdoor, sharing some *preliminary* analysis with permission.](https://mastodon.social/@filippo@abyssdomain.expert/112185827535824541) (2024-03-30)
 - by Dan Goodin ([@dangoodin](https://infosec.exchange/@dangoodin))
   - post: [What we know about the xz Utils backdoor that almost infected the world](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/) (2024-04-01)
+- by Daroc Alden ([@setupminimal](https://twitter.com/setupminimal))
+  - post: [How the XZ backdoor works](https://lwn.net/SubscriberLink/967192/6c39d47b5f299a23/) (2024-04-02+)
 - by Low Level Learning ([@LowLevelTweets](https://twitter.com/@LowLevelTweets))
   - video: [revealing the features of the XZ backdoor](https://www.youtube.com/watch?v=vV_WdTBbww4) based on xzbot (2024-04-03)
 
