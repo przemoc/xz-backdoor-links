@@ -14,10 +14,9 @@ markmap:
 
 ## bad actor
 
-- <span style="color:red">**Jia Tan**</span>
+- <span style="color:red">**Jia Tan**</span> ([github.com/JiaT75](https://github.com/JiaT75))
   - **infamy!** managed to became co-maintainer of XZ-Utils by helping Lasse first, and eventually implanting sophisticated backdoor.
   - jiat0218@gmail.com
-  - github: [@JiaT75](https://github.com/JiaT75)
 - <span style="color:red">high likely there are more</span>
 
 ## xz author
