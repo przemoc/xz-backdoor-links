@@ -148,8 +148,10 @@ markmap:
 ## infographic
 
 - by Thomas Roccia ([@fr0gger](https://infosec.exchange/@fr0gger))
-  - toot: [I tried to make sense of the analysis in a single page (which was quite complicated)!](https://infosec.exchange/@fr0gger/112189232773640259) (2024-03-31)
-  - tweet: [I tried to make sense of the analysis in a single page (which was quite complicated)!](https://twitter.com/fr0gger_/status/1774342248437813525) (2024-03-31)
+  - toot: [I tried to make sense of the analysis in a single page (which was quite complicated)!](https://infosec.exchange/@fr0gger/112189232773640259) Part 1 w/ LQ img (2024-03-31)
+  - tweet: [I tried to make sense of the analysis in a single page (which was quite complicated)!](https://twitter.com/fr0gger_/status/1774342248437813525) Part 1 w/ HQ img (2024-03-31)
+  - toot: [I tried to make sense of the backdoor mechanism this time and summarized it in a one-page overview.](https://infosec.exchange/@fr0gger/112211836264840207) Part 2 w/ LQ img (2024-04-04)
+  - tweet: [I tried to make sense of the backdoor mechanism this time and summarized it in a one-page overview.](https://twitter.com/fr0gger_/status/1775759514249445565) Part 2 w/ HQ img (2024-04-04)
 
 ## detection
 
