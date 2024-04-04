@@ -98,6 +98,8 @@ markmap:
 
 ## analysis
 
+- by Merav Bar, Amitai Cohen ([@AmitaiCo](https://infosec.exchange/@AmitaiCo)), Danielle Aminov ([@danielleaminov](https://mastodon.social/@danielleaminov))
+  - post: [Backdoor in XZ Utils allows RCE: everything you need to know](https://www.wiz.io/blog/cve-2024-3094-critical-rce-vulnerability-found-in-xz-utils) (2024-03-29++)
 - by nugxperience ([@nugxperience](https://twitter.com/nugxperience))
   - tweet: [The AWK portion of the #xz #backdoor decoding script is implementing a modified RC4 algorithm.](https://twitter.com/nugxperience/status/1773906926503591970) (2024-03-30)
 - by alden ([@birchb0y](https://twitter.com/birchb0y))
@@ -147,6 +149,9 @@ markmap:
 
 ## infographic
 
+- by Danielle Aminov ([@danielleaminov](https://mastodon.social/@danielleaminov))
+  - image: [liblzma_flow_w_logo-1.png](https://www.datocms-assets.com/75231/1711898124-liblzma_flow_w_logo-1.png) used in Wiz post (2024-03-31)
+  - toot: [I've been looking into how the xz backdoor works and drew this sketch to make it easier to understand.](https://mastodon.social/@danielleaminov/112200745031488946) (2024-04-02)
 - by Thomas Roccia ([@fr0gger](https://infosec.exchange/@fr0gger))
   - toot: [I tried to make sense of the analysis in a single page (which was quite complicated)!](https://infosec.exchange/@fr0gger/112189232773640259) Part 1 w/ LQ img (2024-03-31)
   - tweet: [I tried to make sense of the analysis in a single page (which was quite complicated)!](https://twitter.com/fr0gger_/status/1774342248437813525) Part 1 w/ HQ img (2024-03-31)
