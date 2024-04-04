@@ -34,6 +34,7 @@ markmap:
   - **props** & **kudos!** everyone, please give him a beer/coffee/drink/tea if you ever meet him!
   - mail: [backdoor in upstream xz/liblzma leading to ssh server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4) at [oss-security ML](https://www.openwall.com/lists/oss-security/) ([info](https://oss-security.openwall.org/wiki/mailing-lists/oss-security)) (2024-03-29)
   - toot: [I accidentally found a security issue while benchmarking postgres changes.](https://mastodon.social/@AndresFreundTec/112180083704606941) (2024-03-29)
+  - tweet: [FWIW, I didn't actually start looking due to the 500ms - I started looking when I saw failing ssh logins](https://twitter.com/andresfreundtec/status/1774190743776866374) (2024-03-30)
 
 ## root cause
 
