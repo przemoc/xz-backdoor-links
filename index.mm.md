@@ -2,7 +2,7 @@
 title: "apocalypxze: xz backdoor (2024) AKA CVE-2024-3094 related links"
 markmap:
   colorFreezeLevel: 2
-  maxWidth: 1000
+  maxWidth: 1300
 ---
 
 # xz backdoor (2024)
