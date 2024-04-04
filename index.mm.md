@@ -185,11 +185,15 @@ markmap:
   - tweet: [Are you actually sitting there telling me that, in 2024, a significant open source project is using fucking Autotools instead of something like Cmake?](https://twitter.com/Devon_Eriksen_/status/1774094415235092494)
 - by Dominik Czarnota ([@disconnect3d_pl](https://twitter.com/disconnect3d_pl))
   - tweet: [Fwiw the "disabled landlock" case reminds me of all those "security mitigation typos" I found some time ago](https://twitter.com/disconnect3d_pl/status/1774496509259645392) (2024-03-31)
+- by Josh Bressers ([@joshbressers](https://infosec.exchange/@joshbressers)), Kurt Seifried ([@kurtseifried](https://infosec.exchange/@kurtseifried))
+  - podcast: [Open Source Security - XZ Bonus Spectacular Episode](https://opensourcesecurity.io/2024/04/01/xz-bonus-spectacular-episode/) (2024-04-01)
 - by Ariadne Conill ([@ariadne](https://social.treehouse.systems/@ariadne))
   - post: [The XZ Utils backdoor is a symptom of a larger problem](https://ariadne.space/2024/04/02/the-xz-utils-backdoor-is-a-symptom-of-a-larger-problem/) (2024-04-02)
   - toot: [The XZ Utils backdoor is a symptom of a larger problem](https://social.treehouse.systems/@ariadne/112200322089325192) (2024-04-02)
 - by Rachel Kroll
   - post: [autoconf makes me think we stopped evolving too soon](https://rachelbythebay.com/w/2024/04/02/autoconf/) (2024-04-02)
+- by Patrick Gray ([@riskybusiness](https://infosec.exchange/@riskybusiness)), Adam Boileau ([@metlstorm](https://infosec.exchange/@metlstorm))
+  - podcast: [Risky Business #743 - A chat about the xz backdoor with the guy who found it](https://risky.biz/RB743/) w/ special guest: Andres Freund (2024-04-03)
 
 - collected by Michael Tsai ([@mjtsai](https://mastodon.social/@mjtsai))
   - post: [xz Backdoor](https://mjtsai.com/blog/2024/04/01/xz-backdoor/) (2024-04-01)
