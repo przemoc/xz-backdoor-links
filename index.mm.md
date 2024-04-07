@@ -212,6 +212,11 @@ markmap:
   - podcast: [Risky Business #743 - A chat about the xz backdoor with the guy who found it](https://risky.biz/RB743/) w/ special guest: Andres Freund (2024-04-03)
 - by Peter Geissler ([@blasty](https://infosec.exchange/@blasty))
   - tweet: [xz bd engineer 1: bro, we need a way to probe the address space to make sure we never SEGV sshd](https://twitter.com/bl4sty/status/1775299293139575048) (2024-04-03)
+- by Alex Matrosov ([@matrosov](https://twitter.com/matrosov))
+  - [I'm not sure if someone noticed, but @HexRaysSA IDA shows a warning on the ifunc implantation technique used by #xzbackdoor](https://twitter.com/matrosov/status/1776693648916447735) (2024-04-06)
+  - [Our xz.fail scanner detects generically ifunc implantation #xzbackdoor technique on any ELF file and could spot other projects implanted by the same technique](https://twitter.com/matrosov/status/1776701862936453284) (2024-04-06)
+- by Valentina Palmiotti ([@chompie1337](https://haunted.computer/@chompie1337))
+  - tweet: [A lot of tradecraft being burned here.](https://twitter.com/chompie1337/status/1776735428952940727) (2024-04-07)
 
 - collected by Michael Tsai ([@mjtsai](https://mastodon.social/@mjtsai))
   - post: [xz Backdoor](https://mjtsai.com/blog/2024/04/01/xz-backdoor/) (2024-04-01)
