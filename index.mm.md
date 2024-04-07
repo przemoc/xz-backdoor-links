@@ -128,6 +128,9 @@ markmap:
 - by Anthony Weems ([@amlw](https://infosec.exchange/@amlw))
   - github: [xzbot - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)](https://github.com/amlweems/xzbot) (2024-04-01)
   - tweet: [I've been reverse engineering the xz backdoor this weekend and have documented the payload format and written a proof-of-concept exploit for the RCE](https://twitter.com/amlweems/status/1774819428208689241) (2024-04-01)
+- by Peter Geissler ([@blasty](https://infosec.exchange/@blasty))
+  - tweet: [the xz sshd backdoor rabbithole goes quite a bit deeper.](https://twitter.com/bl4sty/status/1776691497506623562) (2024-04-06)
+  - thread: [the xz sshd backdoor rabbithole goes quite a bit deeper.](https://threadreaderapp.com/thread/1776691497506623562.html) (2024-04-06)
 
 ## distillation
 
