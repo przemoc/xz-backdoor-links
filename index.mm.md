@@ -25,6 +25,7 @@ markmap:
 - **Lasse Collin** ([github.com/Larhzu](https://github.com/Larhzu))
   - **please stay strong!** any software maintainer could be such a victim. everyone, please show him support and empathy.
 - [The Tukaani Project](https://tukaani.org/)
+  - repo: [XZ Utils](https://git.tukaani.org/?p=xz.git) (backdoor has been removed on 2024-04-09)
   - page: [XZ Utils backdoor](https://tukaani.org/xz-backdoor/)
   - page: [Contact information](https://tukaani.org/contact.html)
 - mail: [[tech-board] [PATCH 00/11] xz: Updates to license, filters, and compression options](https://lkml.org/lkml/2024/3/30/188) at [linux-kernel ML](https://lkml.org/) (2024-03-30)
