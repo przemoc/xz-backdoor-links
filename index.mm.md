@@ -153,7 +153,7 @@ markmap:
 - by Dan Goodin ([@dangoodin](https://infosec.exchange/@dangoodin))
   - post: [What we know about the xz Utils backdoor that almost infected the world](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/) (2024-04-01)
 - by Daroc Alden ([@setupminimal](https://twitter.com/setupminimal))
-  - post: [How the XZ backdoor works](https://lwn.net/SubscriberLink/967192/6c39d47b5f299a23/) (2024-04-02+)
+  - post: [How the XZ backdoor works](https://lwn.net/Articles/967192/) (2024-04-02+)
 - by Low Level Learning ([@LowLevelTweets](https://twitter.com/@LowLevelTweets))
   - video: [revealing the features of the XZ backdoor](https://www.youtube.com/watch?v=vV_WdTBbww4) based on xzbot (2024-04-03)
 - by Christian Weisgerber (naddy)
@@ -190,7 +190,7 @@ markmap:
 
 - by Jonathan Corbet ([@corbet](https://social.kernel.org/users/corbet))
   - toot: [Random, unordered, probably useless thoughts on today's apocalypxze...](https://social.kernel.org/notice/AgM1lT6HeBpodOubEe) (2024-03-29)
-  - post: [Free software's not-so-eXZellent adventure](https://lwn.net/SubscriberLink/967866/ec329f5f32e43b15/) (2024-04-02)
+  - post: [Free software's not-so-eXZellent adventure](https://lwn.net/Articles/967866/) (2024-04-02)
 - by Michał Zelewski ([@lcamtuf](https://infosec.exchange/@lcamtuf))
   - post: [Techies vs spies: the xz backdoor debate](https://lcamtuf.substack.com/p/technologist-vs-spy-the-xz-backdoor) (2024-03-30)
   - toot: [OK, so here's my slightly more eloquent take on the xz thing, complete with a zinger closing paragraph](https://infosec.exchange/@lcamtuf/112182346314363746) (2024-03-30)
