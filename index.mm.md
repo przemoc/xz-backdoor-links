@@ -206,6 +206,8 @@ markmap:
   - tweet: [Fwiw the "disabled landlock" case reminds me of all those "security mitigation typos" I found some time ago](https://twitter.com/disconnect3d_pl/status/1774496509259645392) (2024-03-31)
 - by Josh Bressers ([@joshbressers](https://infosec.exchange/@joshbressers)), Kurt Seifried ([@kurtseifried](https://infosec.exchange/@kurtseifried))
   - podcast: [Open Source Security - XZ Bonus Spectacular Episode](https://opensourcesecurity.io/2024/04/01/xz-bonus-spectacular-episode/) (2024-04-01)
+- by Brian Krebs ([@briankrebs](https://infosec.exchange/@briankrebs))
+  - toot: [Some thoughts about attribution in the XZ backdoor, having just wasted so many hours digging into the details.](https://infosec.exchange/@briankrebs/112197305365490518) (2024-04-01)
 - by Ariadne Conill ([@ariadne](https://social.treehouse.systems/@ariadne))
   - post: [The XZ Utils backdoor is a symptom of a larger problem](https://ariadne.space/2024/04/02/the-xz-utils-backdoor-is-a-symptom-of-a-larger-problem/) (2024-04-02)
   - toot: [The XZ Utils backdoor is a symptom of a larger problem](https://social.treehouse.systems/@ariadne/112200322089325192) (2024-04-02)
@@ -220,9 +222,12 @@ markmap:
   - [Our xz.fail scanner detects generically ifunc implantation #xzbackdoor technique on any ELF file and could spot other projects implanted by the same technique](https://twitter.com/matrosov/status/1776701862936453284) (2024-04-06)
 - by Valentina Palmiotti ([@chompie1337](https://haunted.computer/@chompie1337))
   - tweet: [A lot of tradecraft being burned here.](https://twitter.com/chompie1337/status/1776735428952940727) (2024-04-07)
+- by Adam Leventhal ([@ahl](https://mastodon.social/@ahl)), Bryan Cantrill ([@bcantrill](https://mastodon.social/@bcantrill))
+  - toot: [What an Oxide and Friends last night! @bcantrill and I were joined by the one and only @AndresFreundTec to talk about his discovery of the xz backdoor.](https://mastodon.social/@ahl/112242906033081880) (2024-04-09)
+  - podcast: [Oxide and Friends - Discovering the XZ Backdoor with Andres Freund](https://oxide.computer/podcasts/oxide-and-friends/1843393) w/ special guest: Andres Freund (2024-04-10)
 
 - collected by Michael Tsai ([@mjtsai](https://mastodon.social/@mjtsai))
-  - post: [xz Backdoor](https://mjtsai.com/blog/2024/04/01/xz-backdoor/) (2024-04-01)
+  - post: [xz Backdoor](https://mjtsai.com/blog/2024/04/01/xz-backdoor/) (2024-04-01+)
 
 - by [LWN.net](https://lwn.net/) community
   - post: [A backdoor in xz](https://lwn.net/Articles/967180/) (2024-03-29)
