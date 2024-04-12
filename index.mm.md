@@ -134,6 +134,9 @@ markmap:
   - tweet: [the xz sshd backdoor rabbithole goes quite a bit deeper.](https://twitter.com/bl4sty/status/1776691497506623562) (2024-04-06)
   - thread: [the xz sshd backdoor rabbithole goes quite a bit deeper.](https://threadreaderapp.com/thread/1776691497506623562.html) (2024-04-06)
   - github: [Jia Tan's SSH Agent - Simple SSH Agent that implements some of the XZ sshd backdoor functionality.](https://github.com/blasty/JiaTansSSHAgent) (2024-04-08)
+- by Kaspersky ([@kaspersky](https://twitter.com/kaspersky))
+  - post: [XZ backdoor story – Initial analysis](https://securelist.com/xz-backdoor-story-part-1/112354/) (2024-04-12)
+  - tweet: [Our experts analyzed the malicious #XZbackdoor, which almost infected multiple #Linux distributions.](https://twitter.com/kaspersky/status/1778815409489059963) (2024-04-12)
 
 ## distillation
 
