@@ -225,6 +225,9 @@ markmap:
 - by Adam Leventhal ([@ahl](https://mastodon.social/@ahl)), Bryan Cantrill ([@bcantrill](https://mastodon.social/@bcantrill))
   - toot: [What an Oxide and Friends last night! @bcantrill and I were joined by the one and only @AndresFreundTec to talk about his discovery of the xz backdoor.](https://mastodon.social/@ahl/112242906033081880) (2024-04-09)
   - podcast: [Oxide and Friends - Discovering the XZ Backdoor with Andres Freund](https://oxide.computer/podcasts/oxide-and-friends/1843393) w/ special guest: Andres Freund (2024-04-10)
+- by Dirk Mueller / openSUSE Linux ([@opensuse](https://fosstodon.org/@opensuse))
+  - toot: [Dive into what happened with the #XZ #backdoor.](https://fosstodon.org/@opensuse/112258240858019079) (2024-04-12)
+  - post: [What we need to take away from the XZ Backdoor](https://news.opensuse.org/2024/04/12/learn-from-the-xz-backdoor/) (2024-04-12)
 
 - collected by Michael Tsai ([@mjtsai](https://mastodon.social/@mjtsai))
   - post: [xz Backdoor](https://mjtsai.com/blog/2024/04/01/xz-backdoor/) (2024-04-01+)
