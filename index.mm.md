@@ -137,6 +137,9 @@ markmap:
 - by Kaspersky ([@kaspersky](https://twitter.com/kaspersky))
   - post: [XZ backdoor story – Initial analysis](https://securelist.com/xz-backdoor-story-part-1/112354/) (2024-04-12)
   - tweet: [Our experts analyzed the malicious #XZbackdoor, which almost infected multiple #Linux distributions.](https://twitter.com/kaspersky/status/1778815409489059963) (2024-04-12)
+- by Binarly ([@binarly_io](https://twitter.com/binarly_io))
+  - page: [liblzma.so infection](https://github.com/binarly-io/binary-risk-intelligence/tree/master/xz-backdoor/) (2024-04-12)
+  - tweet: [We’ve completed an in-depth analysis of the #XZbackdoor, from initialization to the main hook enabling remote access.](https://twitter.com/binarly_io/status/1778850012123873296) (2024-04-12)
 
 ## distillation
 
