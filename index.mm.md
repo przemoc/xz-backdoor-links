@@ -28,6 +28,7 @@ markmap:
   - repo: [XZ Utils](https://git.tukaani.org/?p=xz.git) (backdoor has been removed on 2024-04-09)
   - github: [XZ Utils](https://github.com/tukaani-project/xz) (repository has been reactivated on 2024-04-09)
   - page: [XZ Utils backdoor](https://tukaani.org/xz-backdoor/)
+  - page: [XZ Utils review notes](https://tukaani.org/xz-backdoor/review.html)
   - page: [Contact information](https://tukaani.org/contact.html)
 - mail: [[tech-board] [PATCH 00/11] xz: Updates to license, filters, and compression options](https://lkml.org/lkml/2024/3/30/188) at [linux-kernel ML](https://lkml.org/) (2024-03-30)
 
