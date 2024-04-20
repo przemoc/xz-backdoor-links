@@ -60,9 +60,9 @@ markmap:
 ## bugtracker
 
 - Debian
-  - bug: [1068024](https://bugs.debian.org/1068024) `(CVE-2024-3094) - >=app-arch/xz-utils-5.6.0: backdoor in release tarballs` (2024-03-29)
+  - bug: [1068024](https://bugs.debian.org/1068024) `revert to version that does not contain changes by bad actor` (2024-03-29)
 - Gentoo
-  - bug: [928134](https://bugs.gentoo.org/928134) `revert to version that does not contain changes by bad actor` (2024-03-29)
+  - bug: [928134](https://bugs.gentoo.org/928134) `(CVE-2024-3094) - >=app-arch/xz-utils-5.6.0: backdoor in release tarballs` (2024-03-29)
 - Red Hat
   - bug: [2272210](https://bugzilla.redhat.com/2272210) `(CVE-2024-3094) - CVE-2024-3094 xz: malicious code in distributed source` (2024-03-29)
 - SUSE
